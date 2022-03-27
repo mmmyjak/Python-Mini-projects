@@ -1,7 +1,4 @@
 from requests import get
-from pprint import PrettyPrinter
-printer = PrettyPrinter()
-
 BASE_URL = "https://livescore-api.com/api-client"
 KEY = "CHANGE IT TO YOUR KEY"
 SECRET_KEY = "CHANGE IT TO YOUR SECRET KEY"
