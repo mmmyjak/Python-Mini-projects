@@ -1,0 +1,5 @@
+Imię i nazwisko		Pow	L.pom	G	Lokalizacja				Cena
+Anna Nowak          120  6     1   Warszawa,Bemowo        632000 PLN
+Klient wybrał dodatkowo ogródek oraz Warszawę. Cena zwiększona wynosi teraz:764400PLN
+Jarosław Kowalski   250  7     0   Wrocław,Psie Pole      1264000 PLN
+Aneta Duda          60   5     1   Poznań,Garbary         330000 PLN
